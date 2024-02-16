@@ -40,11 +40,13 @@ This project automates tasks that could be done in Google Sheets using Python an
    `cmdlet Set-ExecutionPolicy at command pipeline position 1
     Supply values for the following parameters:
     ExecutionPolicy: Unrestricted`
+   
 **_IMPORTANT!!!_ Do not forget to change the execution policy back to "Restricted" when there are no more scripts**
-8) For Windows type:
+9) For Windows type:
    `sheets\Scripts\Activate.ps1`
    For Mac/Linux type:
    `./sheets/bin/activate`
-9) Install the necessary modules:
+10) Install the necessary modules:
+
     `pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread`
-10) Write python automation script as mentioned in 'main.py'
+11) Write python automation script as mentioned in 'main.py'
