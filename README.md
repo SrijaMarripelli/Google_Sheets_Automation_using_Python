@@ -42,11 +42,14 @@ This project automates tasks that could be done in Google Sheets using Python an
     ExecutionPolicy: Unrestricted`
    
 **_IMPORTANT!!!_ Do not forget to change the execution policy back to "Restricted" when there are no more scripts**
-9) For Windows type:
+
+8) For Windows type:
    `sheets\Scripts\Activate.ps1`
+   
    For Mac/Linux type:
    `./sheets/bin/activate`
-10) Install the necessary modules:
+9) Install the necessary modules:
 
-    pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread
+    `pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread`
+   
 11) Write python automation script as mentioned in 'main.py'
