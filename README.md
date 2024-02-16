@@ -48,5 +48,5 @@ This project automates tasks that could be done in Google Sheets using Python an
    `./sheets/bin/activate`
 10) Install the necessary modules:
 
-    `pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread`
+    pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread
 11) Write python automation script as mentioned in 'main.py'
