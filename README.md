@@ -9,7 +9,7 @@ This project automates tasks that could be done in Google Sheets using Python an
 4) A Code Editor
 
 ### Step-1: Google Cloud Setup
-1) Go to https://console.google.com
+1) Go to https://console.cloud.google.com
 2) Make sure you are on the right google account, if not click on top right corner to change the account
 3) Click on "NEW PROJECT" beside the Google Cloud logo on the top
 4) Create a new project and click on the new project
