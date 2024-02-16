@@ -53,3 +53,4 @@ This project automates tasks that could be done in Google Sheets using Python an
     `pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthib gspread`
    
 11) Write python automation script as mentioned in 'main.py'
+12) For more automation techniques, refer to the following documentation for "gspread": https://docs.gspread.org/en/v6.0.0/
